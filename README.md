@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I try to conquer the world.
 
-- :mailbox:How to reach me:  <a align="left" href="https://linkedin.com/in/https://www.linkedin.com/in/magdalena-kedzia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-kedzia/" height="12" width="12" /></a> 
+- :mailbox:How to reach me:  <a align="left" href="https://linkedin.com/in/https://www.linkedin.com/in/magdalena-kedzia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-kedzia/" height="12" width="12" /></a> 
 
 <br />
 
