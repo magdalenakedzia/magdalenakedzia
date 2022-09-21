@@ -1,16 +1,28 @@
-### Hi there 👋
+### &lt; Hello world 👋 /&gt;	 
+<br />
 
-<!--
-**magdalenakedzia/magdalenakedzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Software Engineer but right now I'm mainly focusing on frontend.
 
-Here are some ideas to get you started:
+- :seedling: Everyday I'm learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :zap: In my free time, I try to conquer the world.
+
+- :mailbox:How to reach me:  <a align="left" href="https://linkedin.com/in/https://www.linkedin.com/in/magdalena-kedzia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-kedzia/" height="12" width="12" /></a> 
+
+<br />
+
+# 📊 GitHub Stats:
+<div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=magdalenakedzia&show_icons=true&theme=cobalt" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakedzia&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br /><br />
+
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
