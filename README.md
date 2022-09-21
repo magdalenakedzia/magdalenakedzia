@@ -2,8 +2,8 @@
 <br />
 
 # :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🏃‍♀️ I’m working as a Software Engineer but right now I'm mainly focusing on frontend.
+
+- 🏃‍♀️ I’m working as a Software Engineer.
 
 - :seedling: Everyday I'm learning something new.
 
