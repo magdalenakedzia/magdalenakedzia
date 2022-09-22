@@ -20,9 +20,10 @@
 
 # 📊 GitHub Stats:
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=magdalenakedzia&show_icons=true&theme=cobalt" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=magdalenakedzia&show_icons=true&theme=omni" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakedzia&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakedzia&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
