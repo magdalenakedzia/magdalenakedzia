@@ -1,7 +1,7 @@
 ### &lt; Hello world 👋 /&gt;	 
 <br />
 
-# :woman_technologist: About Me :
+# :woman_technologist: About Me:
 
 - 🏃‍♀️ I’m working as a Software Engineer.
 
