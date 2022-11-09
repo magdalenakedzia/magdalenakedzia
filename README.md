@@ -20,7 +20,9 @@
 
 # 📊 GitHub Stats:
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=magdalenakedzia&show_icons=true&theme=github_dark" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=magdalenakedzia&show_icons=true&theme=github_dark" /> -->
+<img  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakedzia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
