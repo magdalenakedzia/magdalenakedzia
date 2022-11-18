@@ -28,10 +28,4 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fsadrealisticgazelle&psig=AOvVaw3GX7eq_fNvY2CeUcE556-O&ust=1668895009969000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj8qcTcuPsCFQAAAAAdAAAAABAq" />
