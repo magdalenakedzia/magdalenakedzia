@@ -25,7 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakedzia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fsadrealisticgazelle&psig=AOvVaw3GX7eq_fNvY2CeUcE556-O&ust=1668895009969000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj8qcTcuPsCFQAAAAAdAAAAABAq" />
